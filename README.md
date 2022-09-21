@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hey, this is halal. 3years(almost) professional experienced iOS Developer. Currently working on a US-based social media at Doodle Inc. In my previous(First) company I worked on some interesting, challenging and enjoyable projects. And also I got a strong guidance from a highly experienced 𝐒𝐞𝐧𝐢𝐨𝐫 of my first company for writing scalable, readable and maintainable code.
+
 
 <!--
 **Halal375657/Halal375657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
