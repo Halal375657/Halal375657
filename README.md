@@ -15,6 +15,10 @@ this is halal. 3years(almost) professional experienced iOS Developer. Currently 
 𝗟𝗲𝗲𝘁𝗰𝗼𝗱𝗲: (https://leetcode.com/halal_/)
 𝗗𝗶𝗺𝗶𝗸𝗼𝗷: (https://dimikoj.com/users/241/HalalUddin)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/halal_)
+
+
+
 <!--
 **Halal375657/Halal375657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
